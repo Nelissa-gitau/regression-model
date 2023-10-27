@@ -65,7 +65,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
-- Your Name
-- Contact: your@email.com
+- Nelissa Gitau
+- Contact: nelsgitau@gmail.com
 
 ---
